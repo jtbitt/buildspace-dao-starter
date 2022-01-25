@@ -4,7 +4,7 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: black;
   color: #fff;
   overflow-x: hidden;
 }
@@ -47,7 +47,7 @@ h1 {
 .mint-nft,
 .member-page {
   flex-direction: column;
-  width: 960px;
+  width: 1020px;
   max-width: calc(100% - 1rem);
   padding-left: 0.5rem;
   padding-right: 0.5rem;
